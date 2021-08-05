@@ -25,6 +25,7 @@
     "mysql2": "^2.3.0",
     "nodemon": "^2.0.12",
     "npm-watch": "^0.11.0",
+    "require": "^2.4.20",
     "sequelize": "^6.6.5",
     "watch": "^1.0.2"
   }
